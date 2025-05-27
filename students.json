@@ -1,0 +1,932 @@
+[
+    {
+        "Student ID": "S001",
+        "Courses": [
+            "PHIL305",
+            "SOCY410",
+            "PHYS610",
+            "MATH152",
+            "ART301"
+        ],
+        "Student Name": "Sandy Zhu"
+    },
+    {
+        "Student ID": "S002",
+        "Courses": [
+            "BIOL410",
+            "HIST310",
+            "CS202"
+        ],
+        "Student Name": "Peter Zhou"
+    },
+    {
+        "Student ID": "S003",
+        "Courses": [
+            "CHEM520",
+            "SOCY210",
+            "GRAD501",
+            "CS480",
+            "MATH450"
+        ],
+        "Student Name": "Henry Xu"
+    },
+    {
+        "Student ID": "S004",
+        "Courses": [
+            "ECON410",
+            "CHEM320",
+            "MATH320",
+            "HIST420"
+        ],
+        "Student Name": "Linda Luo"
+    },
+    {
+        "Student ID": "S005",
+        "Courses": [
+            "MUS501",
+            "CS305",
+            "CHEM520",
+            "ART250"
+        ],
+        "Student Name": "Tom Lin"
+    },
+    {
+        "Student ID": "S006",
+        "Courses": [
+            "PHYS610",
+            "CS305",
+            "CS480",
+            "ENG320",
+            "ECON305"
+        ],
+        "Student Name": "Kevin Yang"
+    },
+    {
+        "Student ID": "S007",
+        "Courses": [
+            "CHEM320",
+            "ECON305",
+            "MUS240",
+            "CS101",
+            "ART301"
+        ],
+        "Student Name": "Nina Ma"
+    },
+    {
+        "Student ID": "S008",
+        "Courses": [
+            "PHYS610"
+        ],
+        "Student Name": "Jason Wang"
+    },
+    {
+        "Student ID": "S009",
+        "Courses": [
+            "ECON201",
+            "SOCY410",
+            "PHIL101",
+            "MATH152"
+        ],
+        "Student Name": "Jack Hu"
+    },
+    {
+        "Student ID": "S010",
+        "Courses": [
+            "BIOL205"
+        ],
+        "Student Name": "Lily Wu"
+    },
+    {
+        "Student ID": "S011",
+        "Courses": [
+            "ART501",
+            "ART101",
+            "PHIL305"
+        ],
+        "Student Name": "Linda Wang"
+    },
+    {
+        "Student ID": "S012",
+        "Courses": [
+            "GRAD501",
+            "MATH151",
+            "ART301"
+        ],
+        "Student Name": "Lily Li"
+    },
+    {
+        "Student ID": "S013",
+        "Courses": [
+            "HIST420"
+        ],
+        "Student Name": "Cindy Sun"
+    },
+    {
+        "Student ID": "S014",
+        "Courses": [
+            "CHEM430",
+            "ART301",
+            "BIOL510",
+            "ENG110",
+            "MATH152"
+        ],
+        "Student Name": "Linda Guo"
+    },
+    {
+        "Student ID": "S015",
+        "Courses": [
+            "PHIL501",
+            "BIOL410"
+        ],
+        "Student Name": "Jerry Hu"
+    },
+    {
+        "Student ID": "S016",
+        "Courses": [
+            "PHYS610"
+        ],
+        "Student Name": "Henry He"
+    },
+    {
+        "Student ID": "S017",
+        "Courses": [
+            "CHEM210",
+            "MUS101",
+            "MATH320",
+            "CS650",
+            "MUS501"
+        ],
+        "Student Name": "Leo Gao"
+    },
+    {
+        "Student ID": "S018",
+        "Courses": [
+            "HIST601",
+            "CHEM320",
+            "BIOL510",
+            "MATH610"
+        ],
+        "Student Name": "Eric Lin"
+    },
+    {
+        "Student ID": "S019",
+        "Courses": [
+            "ENG110",
+            "ECON202",
+            "BIOL101"
+        ],
+        "Student Name": "Sandy Huang"
+    },
+    {
+        "Student ID": "S020",
+        "Courses": [
+            "CS101"
+        ],
+        "Student Name": "Tony Xu"
+    },
+    {
+        "Student ID": "S021",
+        "Courses": [
+            "PHIL101",
+            "POLS101",
+            "BIOL101"
+        ],
+        "Student Name": "Maggie Hu"
+    },
+    {
+        "Student ID": "S022",
+        "Courses": [
+            "HIST420",
+            "PHYS420",
+            "SOCY320"
+        ],
+        "Student Name": "Leary Li"
+    },
+    {
+        "Student ID": "S023",
+        "Courses": [
+            "PHIL101",
+            "POLS230"
+        ],
+        "Student Name": "Jerry Wu"
+    },
+    {
+        "Student ID": "S024",
+        "Courses": [
+            "CS480",
+            "PHYS420"
+        ],
+        "Student Name": "Nina Luo"
+    },
+    {
+        "Student ID": "S025",
+        "Courses": [
+            "MUS501",
+            "ECON202"
+        ],
+        "Student Name": "Sandy Wang"
+    },
+    {
+        "Student ID": "S026",
+        "Courses": [
+            "BIOL410",
+            "CS650"
+        ],
+        "Student Name": "Anna Sun"
+    },
+    {
+        "Student ID": "S027",
+        "Courses": [
+            "ENG320",
+            "ECON601"
+        ],
+        "Student Name": "Tom Yang"
+    },
+    {
+        "Student ID": "S028",
+        "Courses": [
+            "PHYS310"
+        ],
+        "Student Name": "Kevin Li"
+    },
+    {
+        "Student ID": "S029",
+        "Courses": [
+            "POLS230",
+            "PSYC315",
+            "CS650",
+            "MUS501",
+            "SOCY410"
+        ],
+        "Student Name": "Frank Yang"
+    },
+    {
+        "Student ID": "S030",
+        "Courses": [
+            "CHEM320",
+            "ECON202",
+            "PHIL101"
+        ],
+        "Student Name": "Eric Gao"
+    },
+    {
+        "Student ID": "S031",
+        "Courses": [
+            "MUS301",
+            "MATH320",
+            "MATH151",
+            "CS305"
+        ],
+        "Student Name": "Tony Liu"
+    },
+    {
+        "Student ID": "S032",
+        "Courses": [
+            "CHEM520",
+            "CHEM430",
+            "CS101"
+        ],
+        "Student Name": "Jerry Yang"
+    },
+    {
+        "Student ID": "S033",
+        "Courses": [
+            "CS650"
+        ],
+        "Student Name": "David Luo"
+    },
+    {
+        "Student ID": "S034",
+        "Courses": [
+            "MATH151",
+            "SOCY601",
+            "GRAD501",
+            "HIST420",
+            "ECON601"
+        ],
+        "Student Name": "Sandy Zhang"
+    },
+    {
+        "Student ID": "S035",
+        "Courses": [
+            "SOCY210",
+            "MUS301",
+            "ART250",
+            "ENG610",
+            "ECON202"
+        ],
+        "Student Name": "Linda Liu"
+    },
+    {
+        "Student ID": "S036",
+        "Courses": [
+            "ART301",
+            "ECON601",
+            "PHIL220",
+            "GRAD620"
+        ],
+        "Student Name": "Cindy Chen"
+    },
+    {
+        "Student ID": "S037",
+        "Courses": [
+            "CHEM520"
+        ],
+        "Student Name": "Andy Xu"
+    },
+    {
+        "Student ID": "S038",
+        "Courses": [
+            "POLS230",
+            "CS350",
+            "BIOL301",
+            "ECON202"
+        ],
+        "Student Name": "Peter Sun"
+    },
+    {
+        "Student ID": "S039",
+        "Courses": [
+            "HIST310",
+            "ART101",
+            "SOCY410"
+        ],
+        "Student Name": "Lily Xu"
+    },
+    {
+        "Student ID": "S040",
+        "Courses": [
+            "BIOL205",
+            "SOCY601",
+            "HIST105",
+            "ECON305",
+            "ART250"
+        ],
+        "Student Name": "Daisy Huang"
+    },
+    {
+        "Student ID": "S041",
+        "Courses": [
+            "PHIL305",
+            "CS350",
+            "ENG401"
+        ],
+        "Student Name": "David Guo"
+    },
+    {
+        "Student ID": "S042",
+        "Courses": [
+            "PHYS202",
+            "MATH320",
+            "MUS240",
+            "CS350",
+            "SOCY320"
+        ],
+        "Student Name": "Tom Xu"
+    },
+    {
+        "Student ID": "S043",
+        "Courses": [
+            "POLS101",
+            "ENG610"
+        ],
+        "Student Name": "Anna Liu"
+    },
+    {
+        "Student ID": "S044",
+        "Courses": [
+            "BIOL301",
+            "ART250"
+        ],
+        "Student Name": "Ivy Liu"
+    },
+    {
+        "Student ID": "S045",
+        "Courses": [
+            "ENG110",
+            "PHYS201",
+            "PHIL101",
+            "ECON410"
+        ],
+        "Student Name": "Andy Wang"
+    },
+    {
+        "Student ID": "S046",
+        "Courses": [
+            "CS350",
+            "SOCY410",
+            "ENG110",
+            "SOCY210"
+        ],
+        "Student Name": "Jason He"
+    },
+    {
+        "Student ID": "S047",
+        "Courses": [
+            "MATH320",
+            "CHEM320",
+            "PHIL220"
+        ],
+        "Student Name": "Sam Guo"
+    },
+    {
+        "Student ID": "S048",
+        "Courses": [
+            "MUS101"
+        ],
+        "Student Name": "Jason Luo"
+    },
+    {
+        "Student ID": "S049",
+        "Courses": [
+            "GRAD620",
+            "BIOL101"
+        ],
+        "Student Name": "Frank Lin"
+    },
+    {
+        "Student ID": "S050",
+        "Courses": [
+            "MUS301",
+            "HIST105",
+            "ECON305"
+        ],
+        "Student Name": "Sandy Zhao"
+    },
+    {
+        "Student ID": "S051",
+        "Courses": [
+            "PHYS610",
+            "ECON201",
+            "SOCY320"
+        ],
+        "Student Name": "David Liu"
+    },
+    {
+        "Student ID": "S052",
+        "Courses": [
+            "PHYS420",
+            "PHYS310",
+            "CS250"
+        ],
+        "Student Name": "Lily Zhao"
+    },
+    {
+        "Student ID": "S053",
+        "Courses": [
+            "CHEM320"
+        ],
+        "Student Name": "Jason Guo"
+    },
+    {
+        "Student ID": "S054",
+        "Courses": [
+            "SOCY410",
+            "HIST601",
+            "ART301"
+        ],
+        "Student Name": "Sandy Sun"
+    },
+    {
+        "Student ID": "S055",
+        "Courses": [
+            "CS250",
+            "MATH450",
+            "HIST310",
+            "ECON201",
+            "PHYS420"
+        ],
+        "Student Name": "Sam Yang"
+    },
+    {
+        "Student ID": "S056",
+        "Courses": [
+            "ECON305",
+            "MUS301",
+            "HIST310",
+            "BIOL510"
+        ],
+        "Student Name": "Nina Liu"
+    },
+    {
+        "Student ID": "S057",
+        "Courses": [
+            "PHYS310",
+            "GRAD501"
+        ],
+        "Student Name": "Lucy Lin"
+    },
+    {
+        "Student ID": "S058",
+        "Courses": [
+            "PHIL501",
+            "MUS501",
+            "SOCY410",
+            "CHEM101"
+        ],
+        "Student Name": "Daisy Zhao"
+    },
+    {
+        "Student ID": "S059",
+        "Courses": [
+            "BIOL510",
+            "ENG320",
+            "PHIL501",
+            "ECON202",
+            "GRAD501"
+        ],
+        "Student Name": "Lucy Chen"
+    },
+    {
+        "Student ID": "S060",
+        "Courses": [
+            "ENG110",
+            "PHIL305",
+            "PHYS201",
+            "PHYS202",
+            "CS250"
+        ],
+        "Student Name": "Helen Zhao"
+    },
+    {
+        "Student ID": "S061",
+        "Courses": [
+            "PHYS202",
+            "PHYS201",
+            "GRAD501",
+            "ECON201"
+        ],
+        "Student Name": "Amy Liu"
+    },
+    {
+        "Student ID": "S062",
+        "Courses": [
+            "CS480",
+            "ECON201",
+            "CHEM320",
+            "PHIL305",
+            "PHYS420"
+        ],
+        "Student Name": "Leo He"
+    },
+    {
+        "Student ID": "S063",
+        "Courses": [
+            "ENG110",
+            "HIST601",
+            "ENG401"
+        ],
+        "Student Name": "Tony Luo"
+    },
+    {
+        "Student ID": "S064",
+        "Courses": [
+            "MUS101",
+            "CHEM320",
+            "CS480",
+            "MATH610"
+        ],
+        "Student Name": "Henry Zhu"
+    },
+    {
+        "Student ID": "S065",
+        "Courses": [
+            "CS480"
+        ],
+        "Student Name": "Jack Yang"
+    },
+    {
+        "Student ID": "S066",
+        "Courses": [
+            "ENG450",
+            "GRAD501",
+            "CS202",
+            "CHEM210",
+            "POLS510"
+        ],
+        "Student Name": "Leary Yang"
+    },
+    {
+        "Student ID": "S067",
+        "Courses": [
+            "CS101",
+            "PHIL501",
+            "SOCY210"
+        ],
+        "Student Name": "Amy Guo"
+    },
+    {
+        "Student ID": "S068",
+        "Courses": [
+            "HIST601",
+            "PHIL501",
+            "ECON201",
+            "PHYS420",
+            "CS202"
+        ],
+        "Student Name": "Ivy Luo"
+    },
+    {
+        "Student ID": "S069",
+        "Courses": [
+            "POLS510",
+            "CS202"
+        ],
+        "Student Name": "Frank Huang"
+    },
+    {
+        "Student ID": "S070",
+        "Courses": [
+            "PSYC315",
+            "POLS510",
+            "MUS501"
+        ],
+        "Student Name": "Ivy Ma"
+    },
+    {
+        "Student ID": "S071",
+        "Courses": [
+            "SOCY410",
+            "PHYS202",
+            "ECON305",
+            "MATH410"
+        ],
+        "Student Name": "Helen Zhou"
+    },
+    {
+        "Student ID": "S072",
+        "Courses": [
+            "CHEM520",
+            "MUS101",
+            "CHEM430",
+            "PHIL220",
+            "MUS301"
+        ],
+        "Student Name": "Jerry Xu"
+    },
+    {
+        "Student ID": "S073",
+        "Courses": [
+            "HIST310",
+            "GRAD501",
+            "PHYS420"
+        ],
+        "Student Name": "Andy Luo"
+    },
+    {
+        "Student ID": "S074",
+        "Courses": [
+            "CHEM101",
+            "POLS510",
+            "BIOL410",
+            "ENG610",
+            "ART250"
+        ],
+        "Student Name": "Helen Wang"
+    },
+    {
+        "Student ID": "S075",
+        "Courses": [
+            "POLS510",
+            "PHYS201",
+            "CS350",
+            "MUS101",
+            "ECON202"
+        ],
+        "Student Name": "Sam Wang"
+    },
+    {
+        "Student ID": "S076",
+        "Courses": [
+            "CS250",
+            "ECON202",
+            "PHYS610",
+            "MUS101"
+        ],
+        "Student Name": "Maggie Ma"
+    },
+    {
+        "Student ID": "S077",
+        "Courses": [
+            "PHIL305",
+            "ENG320",
+            "GRAD620",
+            "PHYS310"
+        ],
+        "Student Name": "Anna Gao"
+    },
+    {
+        "Student ID": "S078",
+        "Courses": [
+            "BIOL510",
+            "BIOL301",
+            "SOCY210"
+        ],
+        "Student Name": "Lucy Wu"
+    },
+    {
+        "Student ID": "S079",
+        "Courses": [
+            "CS350",
+            "CHEM101"
+        ],
+        "Student Name": "Maggie Yang"
+    },
+    {
+        "Student ID": "S080",
+        "Courses": [
+            "GRAD620",
+            "PHIL501",
+            "POLS310",
+            "HIST420",
+            "ART501"
+        ],
+        "Student Name": "Kevin Zhang"
+    },
+    {
+        "Student ID": "S081",
+        "Courses": [
+            "ENG320"
+        ],
+        "Student Name": "Sam Luo"
+    },
+    {
+        "Student ID": "S082",
+        "Courses": [
+            "POLS310",
+            "PHYS201",
+            "BIOL301",
+            "PHYS310"
+        ],
+        "Student Name": "Nina Gao"
+    },
+    {
+        "Student ID": "S083",
+        "Courses": [
+            "POLS101",
+            "HIST420"
+        ],
+        "Student Name": "Cindy Wang"
+    },
+    {
+        "Student ID": "S084",
+        "Courses": [
+            "CS350",
+            "CHEM320",
+            "CS101",
+            "POLS510"
+        ],
+        "Student Name": "Kevin Luo"
+    },
+    {
+        "Student ID": "S085",
+        "Courses": [
+            "PHIL501",
+            "ART301",
+            "BIOL205",
+            "GRAD501",
+            "HIST105"
+        ],
+        "Student Name": "Vivian Chen"
+    },
+    {
+        "Student ID": "S086",
+        "Courses": [
+            "ECON601",
+            "BIOL301"
+        ],
+        "Student Name": "Nina Chen"
+    },
+    {
+        "Student ID": "S087",
+        "Courses": [
+            "ENG450",
+            "CHEM430",
+            "PSYC315",
+            "CS202",
+            "MUS240"
+        ],
+        "Student Name": "Eric Chen"
+    },
+    {
+        "Student ID": "S088",
+        "Courses": [
+            "ART501",
+            "MUS101"
+        ],
+        "Student Name": "Frank Guo"
+    },
+    {
+        "Student ID": "S089",
+        "Courses": [
+            "CHEM210",
+            "HIST601",
+            "MATH450"
+        ],
+        "Student Name": "Eric Wang"
+    },
+    {
+        "Student ID": "S090",
+        "Courses": [
+            "ENG450",
+            "MUS301",
+            "CS480"
+        ],
+        "Student Name": "Jack Huang"
+    },
+    {
+        "Student ID": "S091",
+        "Courses": [
+            "MATH410",
+            "CS250",
+            "PHYS202",
+            "ECON601"
+        ],
+        "Student Name": "Frank Luo"
+    },
+    {
+        "Student ID": "S092",
+        "Courses": [
+            "PHYS310",
+            "CHEM520",
+            "MATH410",
+            "MATH610"
+        ],
+        "Student Name": "Sandy Li"
+    },
+    {
+        "Student ID": "S093",
+        "Courses": [
+            "CS101",
+            "PHYS420",
+            "ENG450",
+            "POLS510"
+        ],
+        "Student Name": "Anna Chen"
+    },
+    {
+        "Student ID": "S094",
+        "Courses": [
+            "ECON410",
+            "ART101"
+        ],
+        "Student Name": "Helen Lin"
+    },
+    {
+        "Student ID": "S095",
+        "Courses": [
+            "BIOL205",
+            "PHYS201",
+            "ENG401"
+        ],
+        "Student Name": "Maggie Liu"
+    },
+    {
+        "Student ID": "S096",
+        "Courses": [
+            "POLS310",
+            "HIST601",
+            "BIOL205",
+            "MUS301",
+            "CHEM520"
+        ],
+        "Student Name": "Jack Chen"
+    },
+    {
+        "Student ID": "S097",
+        "Courses": [
+            "SOCY601",
+            "CHEM320",
+            "ECON202",
+            "ECON201"
+        ],
+        "Student Name": "Tom Liu"
+    },
+    {
+        "Student ID": "S098",
+        "Courses": [
+            "MUS101",
+            "MATH320"
+        ],
+        "Student Name": "Daisy Lin"
+    },
+    {
+        "Student ID": "S099",
+        "Courses": [
+            "ECON410",
+            "GRAD501",
+            "HIST420",
+            "CS480"
+        ],
+        "Student Name": "David Zhu"
+    },
+    {
+        "Student ID": "S100",
+        "Courses": [
+            "MATH320",
+            "MUS501",
+            "ECON202"
+        ],
+        "Student Name": "Amy He"
+    }
+]

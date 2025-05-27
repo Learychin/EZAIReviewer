@@ -1,0 +1,499 @@
+[
+    {
+        "Teacher ID": "T001",
+        "Expertise": [
+            "计算机科学"
+        ],
+        "Courses Taught": [
+            "CS350",
+            "CS202"
+        ],
+        "Teacher Name": "杨萍"
+    },
+    {
+        "Teacher ID": "T002",
+        "Expertise": [
+            "社会学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS240"
+        ],
+        "Teacher Name": "吴霞"
+    },
+    {
+        "Teacher ID": "T003",
+        "Expertise": [
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS501"
+        ],
+        "Teacher Name": "徐磊"
+    },
+    {
+        "Teacher ID": "T004",
+        "Expertise": [
+            "英语",
+            "艺术"
+        ],
+        "Courses Taught": [
+            "ENG320",
+            "ENG450",
+            "ART250",
+            "ART101"
+        ],
+        "Teacher Name": "吴桂兰"
+    },
+    {
+        "Teacher ID": "T005",
+        "Expertise": [
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS501",
+            "MUS301"
+        ],
+        "Teacher Name": "朱娜"
+    },
+    {
+        "Teacher ID": "T006",
+        "Expertise": [
+            "计算机科学",
+            "哲学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "PHIL220",
+            "GRAD501",
+            "CS350"
+        ],
+        "Teacher Name": "李英"
+    },
+    {
+        "Teacher ID": "T007",
+        "Expertise": [
+            "计算机科学",
+            "心理学"
+        ],
+        "Courses Taught": [
+            "CS350",
+            "CS650",
+            "CS250",
+            "CS480",
+            "CS101"
+        ],
+        "Teacher Name": "高娟"
+    },
+    {
+        "Teacher ID": "T008",
+        "Expertise": [
+            "心理学",
+            "政治学",
+            "化学"
+        ],
+        "Courses Taught": [
+            "CHEM430",
+            "POLS101"
+        ],
+        "Teacher Name": "陈刚"
+    },
+    {
+        "Teacher ID": "T009",
+        "Expertise": [
+            "心理学",
+            "生物学",
+            "艺术"
+        ],
+        "Courses Taught": [
+            "ART501",
+            "ART301",
+            "BIOL101",
+            "BIOL301",
+            "ART101"
+        ],
+        "Teacher Name": "何洋"
+    },
+    {
+        "Teacher ID": "T010",
+        "Expertise": [
+            "数学"
+        ],
+        "Courses Taught": [
+            "MATH152"
+        ],
+        "Teacher Name": "吴秀英"
+    },
+    {
+        "Teacher ID": "T011",
+        "Expertise": [
+            "化学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "CHEM430",
+            "MUS101"
+        ],
+        "Teacher Name": "李玉兰"
+    },
+    {
+        "Teacher ID": "T012",
+        "Expertise": [
+            "艺术",
+            "英语"
+        ],
+        "Courses Taught": [
+            "ART250",
+            "ART101",
+            "ART301",
+            "ENG610"
+        ],
+        "Teacher Name": "刘娜"
+    },
+    {
+        "Teacher ID": "T013",
+        "Expertise": [
+            "英语"
+        ],
+        "Courses Taught": [
+            "ENG110",
+            "ENG401",
+            "ENG450",
+            "ENG320",
+            "ENG610"
+        ],
+        "Teacher Name": "胡勇"
+    },
+    {
+        "Teacher ID": "T014",
+        "Expertise": [
+            "数学"
+        ],
+        "Courses Taught": [
+            "MATH152"
+        ],
+        "Teacher Name": "黄玲"
+    },
+    {
+        "Teacher ID": "T015",
+        "Expertise": [
+            "历史"
+        ],
+        "Courses Taught": [
+            "HIST420",
+            "HIST105",
+            "HIST310",
+            "HIST601"
+        ],
+        "Teacher Name": "陈涛"
+    },
+    {
+        "Teacher ID": "T016",
+        "Expertise": [
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS101"
+        ],
+        "Teacher Name": "徐静"
+    },
+    {
+        "Teacher ID": "T017",
+        "Expertise": [
+            "心理学",
+            "计算机科学"
+        ],
+        "Courses Taught": [
+            "CS350"
+        ],
+        "Teacher Name": "陈娜"
+    },
+    {
+        "Teacher ID": "T018",
+        "Expertise": [
+            "政治学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS101",
+            "POLS310",
+            "MUS301",
+            "POLS230",
+            "MUS501"
+        ],
+        "Teacher Name": "林丹"
+    },
+    {
+        "Teacher ID": "T019",
+        "Expertise": [
+            "生物学",
+            "艺术"
+        ],
+        "Courses Taught": [
+            "ART101",
+            "ART501"
+        ],
+        "Teacher Name": "罗芳"
+    },
+    {
+        "Teacher ID": "T020",
+        "Expertise": [
+            "英语",
+            "艺术",
+            "经济学"
+        ],
+        "Courses Taught": [
+            "ART101",
+            "ECON202"
+        ],
+        "Teacher Name": "朱静"
+    },
+    {
+        "Teacher ID": "T021",
+        "Expertise": [
+            "物理学"
+        ],
+        "Courses Taught": [
+            "PHYS202"
+        ],
+        "Teacher Name": "王桂英"
+    },
+    {
+        "Teacher ID": "T022",
+        "Expertise": [
+            "心理学",
+            "社会学"
+        ],
+        "Courses Taught": [
+            "SOCY601"
+        ],
+        "Teacher Name": "罗萍"
+    },
+    {
+        "Teacher ID": "T023",
+        "Expertise": [
+            "社会学",
+            "历史"
+        ],
+        "Courses Taught": [
+            "SOCY320",
+            "SOCY601",
+            "HIST310",
+            "HIST105",
+            "HIST601"
+        ],
+        "Teacher Name": "王敏"
+    },
+    {
+        "Teacher ID": "T024",
+        "Expertise": [
+            "计算机科学",
+            "化学"
+        ],
+        "Courses Taught": [
+            "CS350",
+            "CHEM430",
+            "CHEM520"
+        ],
+        "Teacher Name": "罗丽"
+    },
+    {
+        "Teacher ID": "T025",
+        "Expertise": [
+            "历史"
+        ],
+        "Courses Taught": [
+            "HIST420"
+        ],
+        "Teacher Name": "赵杰"
+    },
+    {
+        "Teacher ID": "T026",
+        "Expertise": [
+            "英语"
+        ],
+        "Courses Taught": [
+            "ENG610"
+        ],
+        "Teacher Name": "李鑫"
+    },
+    {
+        "Teacher ID": "T027",
+        "Expertise": [
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS501"
+        ],
+        "Teacher Name": "郭丽"
+    },
+    {
+        "Teacher ID": "T028",
+        "Expertise": [
+            "艺术"
+        ],
+        "Courses Taught": [
+            "ART101",
+            "ART301",
+            "ART250",
+            "ART501"
+        ],
+        "Teacher Name": "何霞"
+    },
+    {
+        "Teacher ID": "T029",
+        "Expertise": [
+            "艺术"
+        ],
+        "Courses Taught": [
+            "ART501"
+        ],
+        "Teacher Name": "周平"
+    },
+    {
+        "Teacher ID": "T030",
+        "Expertise": [
+            "哲学"
+        ],
+        "Courses Taught": [
+            "PHIL305",
+            "PHIL220",
+            "PHIL501",
+            "PHIL101"
+        ],
+        "Teacher Name": "朱丹"
+    },
+    {
+        "Teacher ID": "T031",
+        "Expertise": [
+            "经济学"
+        ],
+        "Courses Taught": [
+            "ECON202",
+            "ECON601"
+        ],
+        "Teacher Name": "陈玉兰"
+    },
+    {
+        "Teacher ID": "T032",
+        "Expertise": [
+            "生物学"
+        ],
+        "Courses Taught": [
+            "BIOL101",
+            "BIOL205",
+            "BIOL301",
+            "BIOL410"
+        ],
+        "Teacher Name": "陈平"
+    },
+    {
+        "Teacher ID": "T033",
+        "Expertise": [
+            "音乐",
+            "历史"
+        ],
+        "Courses Taught": [
+            "MUS240",
+            "MUS101",
+            "HIST310",
+            "MUS501",
+            "HIST601"
+        ],
+        "Teacher Name": "李艳"
+    },
+    {
+        "Teacher ID": "T034",
+        "Expertise": [
+            "艺术",
+            "化学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "ART501"
+        ],
+        "Teacher Name": "徐娟"
+    },
+    {
+        "Teacher ID": "T035",
+        "Expertise": [
+            "生物学"
+        ],
+        "Courses Taught": [
+            "BIOL410"
+        ],
+        "Teacher Name": "徐玉兰"
+    },
+    {
+        "Teacher ID": "T036",
+        "Expertise": [
+            "计算机科学",
+            "艺术",
+            "化学"
+        ],
+        "Courses Taught": [
+            "CS480",
+            "CHEM320"
+        ],
+        "Teacher Name": "朱杰"
+    },
+    {
+        "Teacher ID": "T037",
+        "Expertise": [
+            "历史",
+            "生物学",
+            "音乐"
+        ],
+        "Courses Taught": [
+            "MUS101",
+            "BIOL301",
+            "BIOL101",
+            "BIOL410",
+            "HIST310"
+        ],
+        "Teacher Name": "周静"
+    },
+    {
+        "Teacher ID": "T038",
+        "Expertise": [
+            "哲学",
+            "历史"
+        ],
+        "Courses Taught": [
+            "PHIL101",
+            "PHIL305",
+            "PHIL220",
+            "HIST420",
+            "HIST601"
+        ],
+        "Teacher Name": "张明"
+    },
+    {
+        "Teacher ID": "T039",
+        "Expertise": [
+            "计算机科学",
+            "经济学",
+            "社会学"
+        ],
+        "Courses Taught": [
+            "ECON202",
+            "CS305",
+            "CS650",
+            "CS250"
+        ],
+        "Teacher Name": "徐平"
+    },
+    {
+        "Teacher ID": "T040",
+        "Expertise": [
+            "经济学",
+            "艺术",
+            "计算机科学"
+        ],
+        "Courses Taught": [
+            "CS202",
+            "ECON201"
+        ],
+        "Teacher Name": "陈强"
+    }
+]

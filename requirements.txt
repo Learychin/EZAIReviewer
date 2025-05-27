@@ -1,0 +1,6 @@
+streamlit==1.32.0
+pandas==2.2.0
+plotly==5.18.0
+streamlit-static-export==0.1.0
+streamlit-to-html==0.1.0
+numpy==1.26.4 

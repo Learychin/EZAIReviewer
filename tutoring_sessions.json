@@ -1,0 +1,2427 @@
+[
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T010",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T010",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T010",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S001",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T023",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T023",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T023",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S002",
+        "Teacher ID": "T040",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S003",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S003",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S003",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S003",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S004",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S004",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S004",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S004",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S004",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T039",
+        "Course Code": "CS305"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T039",
+        "Course Code": "CS305"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S005",
+        "Teacher ID": "T028",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S006",
+        "Teacher ID": "T039",
+        "Course Code": "CS305"
+    },
+    {
+        "Student ID": "S006",
+        "Teacher ID": "T039",
+        "Course Code": "CS305"
+    },
+    {
+        "Student ID": "S006",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S006",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S006",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T002",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T002",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T028",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T028",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S007",
+        "Teacher ID": "T028",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T014",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S009",
+        "Teacher ID": "T014",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S010",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S010",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S010",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S011",
+        "Teacher ID": "T009",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S011",
+        "Teacher ID": "T009",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S011",
+        "Teacher ID": "T009",
+        "Course Code": "ART101"
+    },
+    {
+        "Student ID": "S011",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S011",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S012",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S012",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S012",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S012",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S013",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S013",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S013",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T009",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S014",
+        "Teacher ID": "T014",
+        "Course Code": "MATH152"
+    },
+    {
+        "Student ID": "S015",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S015",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S015",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S017",
+        "Teacher ID": "T016",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S017",
+        "Teacher ID": "T039",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S017",
+        "Teacher ID": "T039",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S017",
+        "Teacher ID": "T005",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S018",
+        "Teacher ID": "T015",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S018",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S018",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S019",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S019",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S019",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S019",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S019",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S020",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S020",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S020",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S021",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S022",
+        "Teacher ID": "T025",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S022",
+        "Teacher ID": "T025",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S022",
+        "Teacher ID": "T025",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S022",
+        "Teacher ID": "T023",
+        "Course Code": "SOCY320"
+    },
+    {
+        "Student ID": "S023",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S023",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S023",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S023",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S024",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S024",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S024",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T018",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T018",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T018",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S025",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S026",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S026",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S026",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S026",
+        "Teacher ID": "T007",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S027",
+        "Teacher ID": "T004",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S027",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T007",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T007",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S029",
+        "Teacher ID": "T005",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S030",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S031",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S031",
+        "Teacher ID": "T039",
+        "Course Code": "CS305"
+    },
+    {
+        "Student ID": "S032",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S032",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S032",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S032",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S032",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S033",
+        "Teacher ID": "T039",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S033",
+        "Teacher ID": "T039",
+        "Course Code": "CS650"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S034",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T012",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T012",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T012",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T013",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T013",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T013",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S035",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S036",
+        "Teacher ID": "T028",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S036",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S036",
+        "Teacher ID": "T006",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S036",
+        "Teacher ID": "T006",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S036",
+        "Teacher ID": "T006",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S037",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S037",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T018",
+        "Course Code": "POLS230"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T020",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S038",
+        "Teacher ID": "T020",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S039",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S039",
+        "Teacher ID": "T028",
+        "Course Code": "ART101"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T015",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T015",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S040",
+        "Teacher ID": "T004",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T017",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S041",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T017",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T017",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T023",
+        "Course Code": "SOCY320"
+    },
+    {
+        "Student ID": "S042",
+        "Teacher ID": "T023",
+        "Course Code": "SOCY320"
+    },
+    {
+        "Student ID": "S043",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S043",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S043",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S043",
+        "Teacher ID": "T012",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S044",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S044",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S044",
+        "Teacher ID": "T028",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S044",
+        "Teacher ID": "T028",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S044",
+        "Teacher ID": "T028",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S045",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL101"
+    },
+    {
+        "Student ID": "S046",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S046",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S047",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S047",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S047",
+        "Teacher ID": "T038",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S048",
+        "Teacher ID": "T018",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S048",
+        "Teacher ID": "T018",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S048",
+        "Teacher ID": "T018",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S049",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S049",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL101"
+    },
+    {
+        "Student ID": "S050",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S050",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S050",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S050",
+        "Teacher ID": "T023",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S051",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S051",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S051",
+        "Teacher ID": "T023",
+        "Course Code": "SOCY320"
+    },
+    {
+        "Student ID": "S051",
+        "Teacher ID": "T023",
+        "Course Code": "SOCY320"
+    },
+    {
+        "Student ID": "S052",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S052",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S053",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S053",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S054",
+        "Teacher ID": "T033",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S054",
+        "Teacher ID": "T033",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S054",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S054",
+        "Teacher ID": "T012",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T015",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T015",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S055",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T005",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S056",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S057",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S057",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S057",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S058",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S058",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T039",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S059",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S060",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S061",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S062",
+        "Teacher ID": "T007",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S062",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S062",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S062",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S062",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S063",
+        "Teacher ID": "T013",
+        "Course Code": "ENG110"
+    },
+    {
+        "Student ID": "S063",
+        "Teacher ID": "T038",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S063",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S063",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S064",
+        "Teacher ID": "T033",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S064",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S064",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S064",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S064",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S065",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S065",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T001",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T001",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S066",
+        "Teacher ID": "T001",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S067",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S068",
+        "Teacher ID": "T038",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S068",
+        "Teacher ID": "T038",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S068",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S068",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S068",
+        "Teacher ID": "T040",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S069",
+        "Teacher ID": "T001",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S069",
+        "Teacher ID": "T001",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S070",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S070",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S070",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S071",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S071",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T033",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T008",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T008",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T008",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T006",
+        "Course Code": "PHIL220"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S072",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T033",
+        "Course Code": "HIST310"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S073",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T035",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T035",
+        "Course Code": "BIOL410"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T026",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T026",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T026",
+        "Course Code": "ENG610"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T004",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S074",
+        "Teacher ID": "T004",
+        "Course Code": "ART250"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T007",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T007",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T007",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T011",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S075",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T039",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S076",
+        "Teacher ID": "T016",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S077",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S077",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S077",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL305"
+    },
+    {
+        "Student ID": "S077",
+        "Teacher ID": "T004",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S077",
+        "Teacher ID": "T004",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S078",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S078",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S078",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S079",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S079",
+        "Teacher ID": "T006",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T038",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T028",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T028",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S080",
+        "Teacher ID": "T028",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S081",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S081",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S081",
+        "Teacher ID": "T013",
+        "Course Code": "ENG320"
+    },
+    {
+        "Student ID": "S082",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S082",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S082",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S083",
+        "Teacher ID": "T008",
+        "Course Code": "POLS101"
+    },
+    {
+        "Student ID": "S083",
+        "Teacher ID": "T015",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T024",
+        "Course Code": "CS350"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S084",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T030",
+        "Course Code": "PHIL501"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T009",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T009",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T009",
+        "Course Code": "ART301"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T015",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T015",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S085",
+        "Teacher ID": "T015",
+        "Course Code": "HIST105"
+    },
+    {
+        "Student ID": "S086",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S086",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S086",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S086",
+        "Teacher ID": "T009",
+        "Course Code": "BIOL301"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T004",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T008",
+        "Course Code": "CHEM430"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T040",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T040",
+        "Course Code": "CS202"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S087",
+        "Teacher ID": "T033",
+        "Course Code": "MUS240"
+    },
+    {
+        "Student ID": "S088",
+        "Teacher ID": "T034",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S088",
+        "Teacher ID": "T034",
+        "Course Code": "ART501"
+    },
+    {
+        "Student ID": "S088",
+        "Teacher ID": "T016",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S089",
+        "Teacher ID": "T033",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T013",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S090",
+        "Teacher ID": "T036",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T007",
+        "Course Code": "CS250"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T021",
+        "Course Code": "PHYS202"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S091",
+        "Teacher ID": "T031",
+        "Course Code": "ECON601"
+    },
+    {
+        "Student ID": "S092",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S092",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S093",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S093",
+        "Teacher ID": "T007",
+        "Course Code": "CS101"
+    },
+    {
+        "Student ID": "S093",
+        "Teacher ID": "T004",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S093",
+        "Teacher ID": "T004",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S093",
+        "Teacher ID": "T004",
+        "Course Code": "ENG450"
+    },
+    {
+        "Student ID": "S094",
+        "Teacher ID": "T019",
+        "Course Code": "ART101"
+    },
+    {
+        "Student ID": "S094",
+        "Teacher ID": "T019",
+        "Course Code": "ART101"
+    },
+    {
+        "Student ID": "S094",
+        "Teacher ID": "T019",
+        "Course Code": "ART101"
+    },
+    {
+        "Student ID": "S095",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S095",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S095",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S095",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S095",
+        "Teacher ID": "T013",
+        "Course Code": "ENG401"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T018",
+        "Course Code": "POLS310"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T023",
+        "Course Code": "HIST601"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T032",
+        "Course Code": "BIOL205"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T018",
+        "Course Code": "MUS301"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S096",
+        "Teacher ID": "T024",
+        "Course Code": "CHEM520"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T022",
+        "Course Code": "SOCY601"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T036",
+        "Course Code": "CHEM320"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T020",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T020",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S097",
+        "Teacher ID": "T040",
+        "Course Code": "ECON201"
+    },
+    {
+        "Student ID": "S098",
+        "Teacher ID": "T037",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S098",
+        "Teacher ID": "T037",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S098",
+        "Teacher ID": "T037",
+        "Course Code": "MUS101"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T006",
+        "Course Code": "GRAD501"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T015",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T015",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T015",
+        "Course Code": "HIST420"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T007",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S099",
+        "Teacher ID": "T007",
+        "Course Code": "CS480"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T033",
+        "Course Code": "MUS501"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    },
+    {
+        "Student ID": "S100",
+        "Teacher ID": "T031",
+        "Course Code": "ECON202"
+    }
+]
